@@ -328,6 +328,3 @@ fields=0
 sleep 3
 done
 echo "Game Over!"
-sleep 3
-done
-echo "Game Over!"
